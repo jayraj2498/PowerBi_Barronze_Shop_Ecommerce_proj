@@ -1,4 +1,4 @@
-## This project demonstrates the creation of a comprehensive ECOMMERS SALES  dashboard using Power BI. It covers data extraction from a SQL database, data processing and DAX queries, dashboard design, and sharing insights. The project aims to provide real-time insights into Road Accident , enabling to monitor and analyze performance efficiently.  
+## This project demonstrates the creation of a comprehensive ECOMMERS SALES  dashboard using Power BI. It covers data extraction from a SQL database, data processing and DAX queries, dashboard design, and sharing insights. The project aims to provide real-time insights into , enabling to monitor and analyze performance efficiently.  
 
 
 - Devlope Comprehensive ECOMMERS SALES DASHBOARD  provides real time insight  
